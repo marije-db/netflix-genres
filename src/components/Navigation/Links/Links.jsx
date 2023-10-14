@@ -1,7 +1,11 @@
 function Links(){
     return(
         <>
-        Links
+            <ul className="navigation-links">
+                <li>Language</li>
+                <li>Dark/Light Mode</li>
+            </ul>
+                
         </>
     )
 }
